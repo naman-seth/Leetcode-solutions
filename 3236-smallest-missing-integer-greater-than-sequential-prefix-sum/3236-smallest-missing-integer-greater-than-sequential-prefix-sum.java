@@ -5,7 +5,6 @@ class Solution {
             if (nums[i] == nums[i - 1] + 1) {
                 sum += nums[i];
             } else {
-                //sum += nums[i];
                 break;
             }
         }
