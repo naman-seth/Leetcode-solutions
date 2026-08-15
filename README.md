@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/naman-seth/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [2058-concatenation-of-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/naman-seth/Leetcode-solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -38,8 +39,13 @@ Collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naman-seth/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/naman-seth/Leetcode-solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naman-seth/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/naman-seth/Leetcode-solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
