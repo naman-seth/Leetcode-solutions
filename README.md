@@ -17,12 +17,14 @@ Collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/naman-seth/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/naman-seth/Leetcode-solutions/tree/master/0066-plus-one) |
 | [2383-add-two-integers](https://github.com/naman-seth/Leetcode-solutions/tree/master/2383-add-two-integers) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/naman-seth/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/naman-seth/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0066-plus-one](https://github.com/naman-seth/Leetcode-solutions/tree/master/0066-plus-one) |
 | [1603-running-sum-of-1d-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/naman-seth/Leetcode-solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
