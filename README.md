@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naman-seth/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/naman-seth/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/naman-seth/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/naman-seth/Leetcode-solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0001-two-sum](https://github.com/naman-seth/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/naman-seth/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0049-group-anagrams](https://github.com/naman-seth/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/naman-seth/Leetcode-solutions/tree/master/0066-plus-one) |
 | [1603-running-sum-of-1d-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0001-two-sum](https://github.com/naman-seth/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naman-seth/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/naman-seth/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/naman-seth/Leetcode-solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/naman-seth/Leetcode-solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -55,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/naman-seth/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/naman-seth/Leetcode-solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Prefix Sum
 |  |
