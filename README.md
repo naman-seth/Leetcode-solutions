@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0009-palindrome-number](https://github.com/naman-seth/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/naman-seth/Leetcode-solutions/tree/master/0066-plus-one) |
+| [1013-fibonacci-number](https://github.com/naman-seth/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/naman-seth/Leetcode-solutions/tree/master/2383-add-two-integers) |
 ## Array
 |  |
@@ -66,4 +67,16 @@ Collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/naman-seth/Leetcode-solutions/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/naman-seth/Leetcode-solutions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/naman-seth/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
