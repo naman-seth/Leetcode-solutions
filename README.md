@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/naman-seth/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/naman-seth/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/naman-seth/Leetcode-solutions/tree/master/0066-plus-one) |
 | [1013-fibonacci-number](https://github.com/naman-seth/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/naman-seth/Leetcode-solutions/tree/master/2383-add-two-integers) |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0001-two-sum](https://github.com/naman-seth/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/naman-seth/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0048-rotate-image](https://github.com/naman-seth/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/naman-seth/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/naman-seth/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/naman-seth/Leetcode-solutions/tree/master/0075-sort-colors) |
@@ -95,4 +97,8 @@ Collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/naman-seth/Leetcode-solutions/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/naman-seth/Leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
