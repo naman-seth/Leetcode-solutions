@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview
 | [0009-palindrome-number](https://github.com/naman-seth/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/naman-seth/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/naman-seth/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/naman-seth/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/naman-seth/Leetcode-solutions/tree/master/2383-add-two-integers) |
 ## Array
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview
 | [0066-plus-one](https://github.com/naman-seth/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/naman-seth/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naman-seth/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [1603-running-sum-of-1d-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/naman-seth/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/naman-seth/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/0189-rotate-array) |
 ## Quicksort
 |  |
 | ------- |
