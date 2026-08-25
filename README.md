@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/naman-seth/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/naman-seth/Leetcode-solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/naman-seth/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/naman-seth/Leetcode-solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Simulation
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/naman-seth/Leetcode-solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/naman-seth/Leetcode-solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/naman-seth/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/naman-seth/Leetcode-solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
 | ------- |
