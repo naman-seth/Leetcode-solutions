@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview
 | [0075-sort-colors](https://github.com/naman-seth/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naman-seth/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0643-maximum-average-subarray-i](https://github.com/naman-seth/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1603-running-sum-of-1d-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/naman-seth/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naman-seth/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/naman-seth/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/naman-seth/Leetcode-solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
