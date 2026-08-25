@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naman-seth/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0643-maximum-average-subarray-i](https://github.com/naman-seth/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/naman-seth/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1603-running-sum-of-1d-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/naman-seth/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview
 | [0001-two-sum](https://github.com/naman-seth/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naman-seth/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/naman-seth/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0940-fruit-into-baskets](https://github.com/naman-seth/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/naman-seth/Leetcode-solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/naman-seth/Leetcode-solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/naman-seth/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naman-seth/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/naman-seth/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/naman-seth/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/naman-seth/Leetcode-solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
