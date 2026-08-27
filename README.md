@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview
 | [0189-rotate-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/naman-seth/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/naman-seth/Leetcode-solutions/tree/master/2383-add-two-integers) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/naman-seth/Leetcode-solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Array
 |  |
 | ------- |
