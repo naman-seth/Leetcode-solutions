@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/naman-seth/Leetcode-solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/naman-seth/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/naman-seth/Leetcode-solutions/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4316-minimum-swaps-to-move-zeros-to-end](https://github.com/naman-seth/Leetcode-solutions/tree/master/4316-minimum-swaps-to-move-zeros-to-end) |
 ## Simulation
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0075-sort-colors](https://github.com/naman-seth/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [4316-minimum-swaps-to-move-zeros-to-end](https://github.com/naman-seth/Leetcode-solutions/tree/master/4316-minimum-swaps-to-move-zeros-to-end) |
 ## Quicksort
 |  |
 | ------- |
