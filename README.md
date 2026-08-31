@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview
 | [0003-longest-substring-without-repeating-characters](https://github.com/naman-seth/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/naman-seth/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/naman-seth/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0412-fizz-buzz](https://github.com/naman-seth/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1904-second-largest-digit-in-a-string](https://github.com/naman-seth/Leetcode-solutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/naman-seth/Leetcode-solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Stack
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview
 | [0048-rotate-image](https://github.com/naman-seth/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/naman-seth/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/naman-seth/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/naman-seth/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/naman-seth/Leetcode-solutions/tree/master/2383-add-two-integers) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/naman-seth/Leetcode-solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -49,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/naman-seth/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/naman-seth/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
