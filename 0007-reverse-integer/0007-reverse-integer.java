@@ -1,13 +1,23 @@
 class Solution {
     public int reverse(int x) {
-       long res =0;
-       while(x!=0){
-        res = (res*10)+(x%10);
-        x/=10;
-        if(res>Integer.MAX_VALUE || res < Integer.MIN_VALUE){
+        int n = x;
+        long num = 0;
+        if (n > 0) {
+            while (n > 0) {
+                num *= 10;
+                num += n % 10;
+                n /= 10;
+            }
+        } else {
+            while (n < 0) {
+                num *= 10;
+                num += n % 10;
+                n /= 10;
+            }
+        }
+        if(num>Integer.MAX_VALUE || num<Integer.MIN_VALUE){
             return 0;
         }
-       } 
-       return (int)res;
+        return (int)num;
     }
 }
