@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview
 | [0009-palindrome-number](https://github.com/naman-seth/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/naman-seth/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/naman-seth/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/naman-seth/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/naman-seth/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/naman-seth/Leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/naman-seth/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naman-seth/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/naman-seth/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/naman-seth/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/naman-seth/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
