@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview
 | [1603-running-sum-of-1d-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/naman-seth/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/naman-seth/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/naman-seth/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/naman-seth/Leetcode-solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/naman-seth/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/naman-seth/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0792-binary-search](https://github.com/naman-seth/Leetcode-solutions/tree/master/0792-binary-search) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/naman-seth/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -136,4 +138,8 @@ Collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/naman-seth/Leetcode-solutions/tree/master/0258-add-digits) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/naman-seth/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
