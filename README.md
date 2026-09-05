@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview
 | [0643-maximum-average-subarray-i](https://github.com/naman-seth/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/naman-seth/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/naman-seth/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/naman-seth/Leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/naman-seth/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/naman-seth/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0792-binary-search](https://github.com/naman-seth/Leetcode-solutions/tree/master/0792-binary-search) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/naman-seth/Leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/naman-seth/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/naman-seth/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/naman-seth/Leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Number Theory
 |  |
 | ------- |
