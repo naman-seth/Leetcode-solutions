@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naman-seth/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0643-maximum-average-subarray-i](https://github.com/naman-seth/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0792-binary-search](https://github.com/naman-seth/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/naman-seth/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1603-running-sum-of-1d-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/naman-seth/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/naman-seth/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0792-binary-search](https://github.com/naman-seth/Leetcode-solutions/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
