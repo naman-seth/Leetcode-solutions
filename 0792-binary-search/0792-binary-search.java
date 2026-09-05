@@ -1,8 +1,7 @@
 class Solution {
     public int search(int[] nums, int target) {
        int low=0;
-       int n = nums.length;
-       int high = n-1;
+       int high = nums.length-1;
        while(low<=high){
         int mid = (low +high)/2;
         int a = nums[mid];
