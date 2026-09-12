@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview
 | [0001-two-sum](https://github.com/naman-seth/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/naman-seth/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/naman-seth/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/naman-seth/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/naman-seth/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/naman-seth/Leetcode-solutions/tree/master/0066-plus-one) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/naman-seth/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/naman-seth/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/naman-seth/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [4316-minimum-swaps-to-move-zeros-to-end](https://github.com/naman-seth/Leetcode-solutions/tree/master/4316-minimum-swaps-to-move-zeros-to-end) |
